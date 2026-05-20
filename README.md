@@ -168,3 +168,11 @@ Insight: These security measures are effective but not strong enough to bring NP
 - Mandatory Co-signer: Applicable to young, unemployed, or low-income groups to reduce bad debt from $15% to $12%.
 - Interest Rate Balancing: Adjust interest rates to adequately compensate for the $13% bad debt level.
 - Mass Marketing: No discrimination based on educational background is required as loan values ​​are equivalent.
+
+## Prediction
+After the data processing and cleaning process: Data cleaning -> Feature engineering
+We use 3 ML models: Logistic Regression, Random Forest, Gradient Boosting Classifier (GBM) to predict high risk loans
+Models evaluated by precision, recall, f1-score, support
+-> GBM is the best predictive model
+Therefore, we decided to use GBM to predict lending risk.
+<img width="520" height="415" alt="image" src="https://github.com/user-attachments/assets/f99e629a-94ec-4d64-ad4c-be759ee57faf" />
