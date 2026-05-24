@@ -4,7 +4,17 @@
 
 This project focuses on analyzing and predicting loan default risk using Business Intelligence (BI) and Machine Learning techniques. The system integrates data preprocessing, data warehousing, 
 predictive analytics, and interactive dashboards to help financial institutions identify high-risk borrowers and improve lending decisions.
+## 🛠 Tech Stack
 
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **SQL:** Thực hiện EDA, kiểm tra logic dữ liệu và tối ưu hóa truy vấn đầu vào.
+- **Power BI:** Xây dựng mô hình dữ liệu (Star Schema) và thiết kế Dashboard.
+- **DAX:** Xử lý các phép tính Measure và Calculated Column chuyên sâu.
+- **Python:** Tiền xử lý dữ liệu (ETL) và phân tích thống kê nâng cao.
 ## Business Problem
 Financial institutions often struggle with:
 - Inefficient manual credit evaluation
