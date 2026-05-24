@@ -10,11 +10,13 @@ predictive analytics, and interactive dashboards to help financial institutions 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- **SQL:** Thực hiện EDA, kiểm tra logic dữ liệu và tối ưu hóa truy vấn đầu vào.
-- **Power BI:** Xây dựng mô hình dữ liệu (Star Schema) và thiết kế Dashboard.
-- **DAX:** Xử lý các phép tính Measure và Calculated Column chuyên sâu.
-- **Python:** Tiền xử lý dữ liệu (ETL) và phân tích thống kê nâng cao.
+- **SQL:** Thực hiện EDA, kiểm tra logic dữ liệu, xử lý tính toàn vẹn và tối ưu hóa truy vấn đầu vào.
+- **Power BI:** Xây dựng mô hình dữ liệu (Star Schema), thiết lập quan hệ Dim-Fact và thiết kế Dashboard tương tác.
+- **DAX:** Xử lý các phép tính Measure và Calculated Column chuyên sâu để đo lường các chỉ số KPI vận hành.
+- **Python:** Tiền xử lý dữ liệu (ETL),  và phân tích thống kê nâng cao.
+- **Scikit-learn:** Xây dựng và so sánh 3 mô hình học máy để dự đoán khả năng Default.
 ## Business Problem
 Financial institutions often struggle with:
 - Inefficient manual credit evaluation
