@@ -37,24 +37,18 @@ The dataset contains 256000 historical loan records from 2013–2018.
 Python, PowerBI, Github
 
 ## Project Workflow
-Raw Dataset
-    ↓
-Data Cleaning & Preprocessing
-    ↓
-Feature Engineering
-    ↓
-Data Warehouse Construction (Star Schema)
-    ↓
-Power BI Dashboard Development
-    ↓
-Machine Learning Model Training
-    ↓
-Loan Default Prediction
+Raw Dataset -> Data Cleaning & Preprocessing -> EDA ->  Feature Engineering -> Data Warehouse Construction (Star Schema) -> Power BI Dashboard Development -> Machine Learning Model Training -> Loan Default Prediction
 
 ## Data Modeling
 <img width="833" height="674" alt="image" src="https://github.com/user-attachments/assets/6bef4937-77bb-4035-a9ef-cdc9acbe0005" />
 
 The data is stored in 1 fact table and 8 dimension tables.
+
+### Data Cleaning & Preprocessing
+Xử lý Missing -> Xử lý Duplicate & Data Consistency -> Datetime Standardization -> Data Quality Check -> Xem và xử lý Outlier 
+
+### EDA 
+Sử dụng SQl để EDA dữ liệu và phân tích.
 
 ## Data Visulization
 ### Master Data Page
